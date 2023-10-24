@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **System design, OS, DBMS, CN, OOPS, MATHS**
 
-- ⚡ Fun fact **I am funny**
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
