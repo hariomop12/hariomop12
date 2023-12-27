@@ -6,11 +6,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on  Android Devlopment 
 
-- 🌱 I’m currently learning  Jetpack Compose
-
-- 💬 Ask me about **System design, OS, DBMS, CN, OOPS, MATHS**
+- 💻 Android App Developer
+- 🌱 I’m currently learning about Jetpack Compose
+- 👯 I’m Looking to collaborate with other Developers
+- 💬 Ask me about Android Development or System design, OS, DBMS, CN, OOPS, MATHS, tech related stuff
+- ⚡ Fun fact: Jumped into Coding Abyss cause of Video Games 🙌
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
