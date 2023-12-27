@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure**
+- 🔭 I’m currently working on  Android Devlopment 
 
-- 🌱 I’m currently learning **react js**
+- 🌱 I’m currently learning  Jetpack Compose
 
 - 💬 Ask me about **System design, OS, DBMS, CN, OOPS, MATHS**
 
