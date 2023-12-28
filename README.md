@@ -12,7 +12,9 @@
 - 👯 I’m Looking to collaborate with other Developers
 - 💬 Ask me about Android Development or System design, OS, DBMS, CN, OOPS, MATHS, tech related stuff
 - ⚡ Fun fact: Jumped into Coding Abyss cause of Video Games 🙌
+ <br/>
 
+<br/>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
   <img width="12" />
