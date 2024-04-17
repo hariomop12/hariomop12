@@ -44,6 +44,11 @@
 
 <br/>
 
+<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7PWlUZkLVg4Mo1Mx4fPEHQu7G4KhVaM5S8ZcBMHpeKvNUI7r5ZAwDtLsK9B7JFl4ikt4VNH-BnNUtkYsrYaG7jxSNFOV0-7aM4MPhAndCmvYn4A0BNHhTNciJUj--IgisvHQlZQvh4i4BecPlNTH7l-q9d936UU7Vhi54aXl4mSD0CPplOnO3H7ur/s1600/unnamed%20(6).gif" alt="HariomOP" >
+
+<br/>
+
+<br/>
 <div align="left">
   <a href="hariomvirkhare02@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
