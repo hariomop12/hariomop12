@@ -7,26 +7,23 @@
 </div>
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomop12&label=Profile%20views&color=0e75b6&style=flat" alt="hariomop12" /> </p>
+<p align="left"> <img src="https://camo.githubusercontent.com/6d33f23f9fbe97e431449053e472b53ca7d19ec88caf9498fb895671ed617524/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686172696f6d6f703132266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hariomop12" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 - 💻 Android App Developer
-- 🌱 I’m currently learning about Jetpack Compose
+- 🌱 I’m currently learning about Jetpack Compose And Morder Android Dev. (MAD Skills)
 - 👯 I’m Looking to collaborate with other Developers
-- 💬 Ask me about Android Development or System design, OS, DBMS, CN, OOPS, MATHS, tech related stuff
-- ⚡ Fun fact: Jumped into Coding Abyss cause of Video Games
+- 💬 Ask me about Android Development And System design, Spring Boot, DBMS, CN, OOPS, Design Pattern, MATHS and tech related stuff
 
  <br/>
 
 <br/>
  <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img src="https://i.ibb.co/6FJr81b/OIP-removebg.png" height="30" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
   <img width="12" />
@@ -34,7 +31,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" height="30" alt="firebase logo"  />
+  <img width="12" />
+  
+  
 </div>
 
 
