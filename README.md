@@ -13,9 +13,9 @@
 
 
 - 💻 Android App Developer
-- 🌱 I’m currently learning about Jetpack Compose And Morder Android Dev. (MAD Skills)
+- 🌱 I’m currently learning about Jetpack Compose And Morder Android Dev. 
 - 👯 I’m Looking to collaborate with other Developers
-- 💬 Ask me about Android Development And System design, Spring Boot, DBMS, CN, OOPS, Design Pattern, MATHS and tech related stuff
+- 💬 Ask me about Android Development And System design, Spring Boot, DBMS, CN, OOPS, Design Pattern, MATHS and tech-related stuff
 
  <br/>
 
