@@ -5,9 +5,10 @@
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
- 
 
-<p align="left"> <img src="https://camo.githubusercontent.com/6d33f23f9fbe97e431449053e472b53ca7d19ec88caf9498fb895671ed617524/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d686172696f6d6f703132266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="hariomop12" /> </p>
+ ![](https://komarev.com/ghpvc/?username=hariomop12&color=green)
+
+ 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
