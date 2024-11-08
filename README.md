@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariom Virkhare</h1>
-<h3 align="center">A passionate Android Devloper from India</h3>
+<h3 align="center">A passionate Backend Devloper from India</h3>
 
 
 <div>
@@ -13,27 +13,17 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 💻 Android App Developer
-- 🌱 I’m currently learning about Jetpack Compose And Morder Android Dev. 
-- 👯 I’m Looking to collaborate with other Developers
-- 💬 Ask me about Android Development And System design, Spring Boot, DBMS, CN, OOPS, Design Pattern, MATHS and tech-related stuff
+- 🐍 Python Backend Developer
+- 🌱 I’m currently diving deeper into Django, Flask, and FastAPI to build scalable backend solutions.
+- 👯 I’m looking to collaborate on backend projects, APIs, and open-source contributions.
+- 💬 Ask me about Python Development, RESTful APIs, Microservices, Databases (SQL & NoSQL), Server Architecture, Docker, Unit Testing, and other backend tech!
+
 
  <br/>
 
 <br/>
  <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://i.ibb.co/6FJr81b/OIP-removebg.png" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
+   
   
   
   
@@ -41,12 +31,21 @@
 
 
 <br/>
-
+<div align="center">
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183423775-2276e25d-d43d-4e58-890b-edbc88e915f7.png" alt="Flask" title="Flask"/></code>
+<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4" alt="Django" title="Django"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx" title="Nginx"/></code>
+<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+<code><img width="50" src="https://github.com/user-attachments/assets/f3bee16b-3609-489f-9445-d08c0a52468b" alt="Digital Ocean" title="Digital Ocean"/></code>
+</div>
 <br/>
 
 <br/>
 
-<img align="center" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7PWlUZkLVg4Mo1Mx4fPEHQu7G4KhVaM5S8ZcBMHpeKvNUI7r5ZAwDtLsK9B7JFl4ikt4VNH-BnNUtkYsrYaG7jxSNFOV0-7aM4MPhAndCmvYn4A0BNHhTNciJUj--IgisvHQlZQvh4i4BecPlNTH7l-q9d936UU7Vhi54aXl4mSD0CPplOnO3H7ur/s1600/unnamed%20(6).gif" alt="HariomOP" >
+
 
 <br/>
 
