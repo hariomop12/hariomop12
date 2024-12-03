@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariom Virkhare</h1>
-<h3 align="center">A passionate Backend Devloper from India</h3>
+<h3 align="center">A passionate software developer from India.</h3>
 
 
 <div>
@@ -12,11 +12,12 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-- 🐍 Python Backend Developer
-- 🌱 I’m currently diving deeper into Django, Flask, and FastAPI to build scalable backend solutions.
-- 👯 I’m looking to collaborate on backend projects, APIs, and open-source contributions.
-- 💬 Ask me about Python Development, RESTful APIs, Microservices, Databases (SQL & NoSQL), Server Architecture, Docker, Unit Testing, and other backend tech!
+- 💻 Full-Stack Web Developer
+- 🌟 Passionate about crafting modern web applications with cutting-edge technologies.
+- 🚀 Currently exploring advanced React patterns, Next.js, and scalable backend solutions with Node.js and TypeScript.
+- 👯 Open to collaborating on frontend/backend projects, APIs, and open-source contributions.
+- 💬 Ask me about JavaScript, TypeScript, Tailwind, React, Node.js, Docker, Databases (MongoDB & PostgreSQL), and deployment strategies!
+- 📦 Skilled in building robust APIs, designing efficient server architectures, and deploying scalable web solutions.
 
 
  <br/>
