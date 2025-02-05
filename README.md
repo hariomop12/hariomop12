@@ -12,12 +12,25 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Full-Stack Web Developer
-- 🌟 Passionate about crafting modern web applications with cutting-edge technologies.
-- 🚀 Currently exploring advanced React patterns, Next.js, and scalable backend solutions with Node.js and TypeScript.
-- 👯 Open to collaborating on frontend/backend projects, APIs, and open-source contributions.
-- 💬 Ask me about JavaScript, TypeScript, Tailwind, React, Node.js, Docker, Databases (MongoDB & PostgreSQL), and deployment strategies!
-- 📦 Skilled in building robust APIs, designing efficient server architectures, and deploying scalable web solutions.
+🚀 Backend Developer | API Specialist
+
+🔹 Passionate about building scalable, secure,
+           and high-performance backend systems.
+    
+🔹 Experienced in Node.js, Go, REST APIs, 
+    gRPC, Microservices, and DevOps.
+
+💻 Tech Stack
+
+✔️ Languages: Node.js (JavaScript), Go (Golang)
+
+✔️ Databases: PostgreSQL, MySQL, MongoDB, Redis
+
+✔️ APIs: REST, SOAP, gRPC
+
+✔️ Tools: Docker, Kubernetes, Kafka, Elasticsearch
+
+✔️ Security & Performance: Authentication, Caching, Logging, Monitoring
 
 
  <br/>
