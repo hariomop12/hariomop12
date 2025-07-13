@@ -1,46 +1,80 @@
-<h1 align="center">Hi 👋, I'm Hariom Virkhare</h1>
-<h3 align="center">A passionate software developer from India.</h3>
+<h1 align="center">Hi 👋, I'm Hariom </h1>
+<h3 align="center">Backend Developer | Open Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hariomop12&label=Profile%20views&color=0e75b6&style=flat" alt="hariomop12" />
+</p>
 
 
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+ 
+
+<div align="center">
+  <img src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png" alt="dev-art" width="300"/>
 </div>
 
- ![](https://komarev.com/ghpvc/?username=hariomop12&color=green)
+---
 
- 
+### 🚀 About Me
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🔥 Backend Developer from India 🇮🇳
+- 🧠 Obsessed with performance, security, and scalable system design
+- 🛠️ Focused on building **real-world backend projects** using **Go, PostgreSQL, Docker**, and microservices
+- 📬 Always up for contributions and collaborations on open-source
+- 🎯 Currently contributing to [listmonk](https://github.com/knadh/listmonk)
 
-🚀 Backend Developer | API Specialist
+---
 
-🔹 Passionate about building scalable, secure,
-           and high-performance backend systems.
-    
-🔹 Experienced in Node.js, Go, REST APIs, 
-    gRPC, Microservices, and DevOps.
+### 🧰 Tech Stack
 
-💻 Tech Stack
+#### 👨‍💻 Languages & Runtime
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,nodejs,ts" />
+</p>
 
-✔️ Languages: Node.js (JavaScript), Go (Golang)
+#### 🧪 API & Protocols
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,graphql" />
+</p>
 
-✔️ Databases: PostgreSQL, MySQL, MongoDB, Redis
+#### 🗄️ Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis" />
+</p>
 
-✔️ APIs: REST, SOAP, gRPC
+#### 👨‍💻 Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=elasticsearch" />
+</p>
 
-✔️ Tools: Docker, Kubernetes, Kafka, Elasticsearch
+#### 🧰 DevOps & Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,nginx," />
+</p>
 
-✔️ Security & Performance: Authentication, Caching, Logging, Monitoring
+#### ☁️ Cloud & OS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,bash" />
+</p>
+
+#### 📊 Monitoring & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elastic" />
+</p>
+
+#### 🛠️ Editors & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=neovim,vscode,git,github" />
+</p>
+
+### 🛠️ Currently Working On
+
+- Contributing to `listmonk` Go backend
+- Experimenting with **real-time systems** using **WebSocket + Go**
+
+---
 
 
- <br/>
+> 💡 _“Keep it simple, make it scalable, and never stop learning.”_
 
-<br/>
- <div align="center">
-   
+---
 
-
- 
- 
-
- 
