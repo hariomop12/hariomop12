@@ -67,7 +67,6 @@
 
 ### 🛠️ Currently Working On
 
-- Contributing to `listmonk` Go backend
 - Experimenting with **real-time systems** using **WebSocket + Go**
 
 ---
