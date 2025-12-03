@@ -20,7 +20,6 @@
 - 🧠 Obsessed with performance, security, and scalable system design
 - 🛠️ Focused on building **real-world backend projects** using **Go, PostgreSQL, Docker**, and microservices
 - 📬 Always up for contributions and collaborations on open-source
-- 🎯 Currently contributing to [listmonk](https://github.com/knadh/listmonk)
 
 ---
 
