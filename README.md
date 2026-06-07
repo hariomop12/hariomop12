@@ -84,10 +84,10 @@
   <a href="https://github.com/hariomop12" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-hariomop12-FF6B35?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/hariom" target="_blank">
+  <a href="[https://linkedin.com/in/hariom](https://www.linkedin.com/in/hariom-op/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Hariom-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:hariomvirkhare02@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-FF6B35?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
